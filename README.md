@@ -2,7 +2,7 @@
 Little program using patterns design
 
 ## Programming Language
-
+Java
 
 ## Program options
 
