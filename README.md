@@ -6,7 +6,9 @@ Java
 
 ## Program options
 
-![Add person](demo/program.gif)
+<p align="center">
+  <img src="demo/program.gif">
+</p>
 
 ## Author
 Danny Xie Li
